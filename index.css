@@ -34,7 +34,6 @@ main.all{
 
 main section.countryInformation{
     width: 90%;
-    /* background-color:red; */
     margin-bottom: 20px;
     display:flex;
     flex-direction:column;
