@@ -17,7 +17,7 @@ h1.title{
     font-size: 4rem;
     font-weight: 900;
     letter-spacing:-5px;
-    position: sticky;
+    position: sticky;/*continuar na tela quando o top foi 0px*/
     top:0px;
     background-color:#a09ee9;
     padding:10px 0 0 0 ;
