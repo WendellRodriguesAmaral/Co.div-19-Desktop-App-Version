@@ -39,7 +39,7 @@ main section.countryInformation{
     flex-direction:column;
 }
 h2{
-    font-size: 2.7rem;
+    font-size: 2.5rem;
     /* background-color:rgb(51, 255, 0); */
     letter-spacing:-3px;
     color:#27568054;
@@ -50,7 +50,7 @@ h2 span{
     font-size: 1.1rem;
     margin:0 5px;
     color:#3B719F;
-    letter-spacing:-2px;
+    letter-spacing:-1px;
 }
 .boxes{
     display:flex;
@@ -60,7 +60,7 @@ h2 span{
     /* border: solid 1px black; */
     display:flex;
     flex-direction:column;
-    padding:6px;
+    padding:5px;
     background-color:#D8DCD6;
     /* border-radius: 10px; */
 }
@@ -72,13 +72,13 @@ h2 span{
 }
 
 .titleInformation{
-    font-size:1.5rem;
+    font-size:1.4rem;
     font-weight: 700;
 }
 .information{
     /* background-color:blue; */
     align-self: flex-end;
-    font-size:3rem;
+    font-size:2.8rem;
     width:auto;
     color:#3B719F
 }
