@@ -22,6 +22,9 @@ h1.title{
     background-color:#a09ee9;
     padding:10px 0 0 0 ;
 }
+small{
+    display:none;
+}
 
 main.all{
     width: min(95% , 1200px);
@@ -81,4 +84,55 @@ h2 span{
     font-size:2.8rem;
     width:auto;
     color:#3B719F
+}
+
+
+@media (min-width:768px){
+    small{
+        display:block;
+        text-align:center;
+        font-weight: bolder;
+        color:#275680;
+        font-size: .9rem;
+    }
+    h2{
+        font-size: 3rem;
+    }
+    .countryInformation{
+        /* border: solid 1px black; */
+        padding:1% 3%;
+    }
+    .boxes{
+        flex-direction:row;
+        justify-content:space-between;
+    }
+    .boxInformation{
+        width: 30%;
+        height: 9rem;
+        border-radius: 10px;
+        overflow: hidden;
+
+    }
+    .boxInformation:nth-child(1){
+        border-bottom: solid 10px #275680;
+    }
+    .boxInformation:nth-child(2){
+        border-bottom: solid 10px #008116;
+
+    }
+    .boxInformation:nth-child(3){
+        border-top: solid 10px #920202;
+    }
+    .titleInformation{
+        font-size:1.2rem;
+        font-weight: 700;
+        text-align: left;
+    }
+    .information{
+        display:flex;
+       align-items:flex-end;
+        height: 100%;
+        font-size:4rem;
+        opacity: .7;
+    }
 }
