@@ -1,4 +1,4 @@
-// import axios from 'axios';
+
 const container =  document.querySelector("main.all");
 
 const url = `https://covid-api.mmediagroup.fr/v1/cases?country=Brazil`
