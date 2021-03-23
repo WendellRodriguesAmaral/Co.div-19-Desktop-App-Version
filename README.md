@@ -1,6 +1,6 @@
 # Co.div-19 😷
 
-![desktop_version](desktop_version.PNG)
+![desktop_version](desktop_version.PNG?w=4)
 
 ![mobile version](mobile_version.PNG)
 
