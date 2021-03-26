@@ -27,7 +27,7 @@ Obs: Existe esse mesmo projeto para versão web neste GitHub.
 - [x] JavaScript
 - [x] API
 - [x] Electron
-=======
+
 
 
 
@@ -40,4 +40,3 @@ Obs: Existe esse mesmo projeto para versão web neste GitHub.
 * Regex
 
 * Geração do .exe com Electron
-=======
