@@ -2,9 +2,9 @@
 # Co.div-19 😷 
 
 ### Versão Desktop
-![desktop_version](desktop_version.PNG?w=4)
 
 
+![Desktop_Version](Desktop_Version.PNG)
 
 Projeto simples para manipulação e consulta dos dados atuais do Covid-19.
 
