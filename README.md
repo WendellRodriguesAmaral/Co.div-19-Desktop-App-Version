@@ -4,7 +4,7 @@
 ### Versão Desktop
 ![desktop_version](desktop_version.PNG?w=4)
 
-![mobile version](mobile_version.PNG)
+
 
 Projeto simples para manipulação e consulta dos dados atuais do Covid-19.
 
