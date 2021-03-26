@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # Co.div-19 😷 
 
 ### Versão Desktop
+=======
+# Co.div-19 😷
+>>>>>>> 920a95a4deb0eb94af6fd0c578c2e42a41be9d0b
 
 ![desktop_version](desktop_version.PNG?w=4)
 
@@ -12,10 +16,13 @@ Neste projeto é possível ver em tempo real os números do Corona Vírus em tod
 
 O projeto atualiza automaticamente a cada 1 hora e conta com números reais e verídicos.
 
+<<<<<<< HEAD
 Esta versão só roda em Windows.
 
 Obs: Existe esse mesmo projeto para versão web neste GitHub.
 
+=======
+>>>>>>> 920a95a4deb0eb94af6fd0c578c2e42a41be9d0b
 
 
 ## Tecnologias usadas :
@@ -24,7 +31,10 @@ Obs: Existe esse mesmo projeto para versão web neste GitHub.
 - [x] CSS
 - [x] JavaScript
 - [x] API
+<<<<<<< HEAD
 - [x] Electron
+=======
+>>>>>>> 920a95a4deb0eb94af6fd0c578c2e42a41be9d0b
 
 ## Conceitos aplicados:
 
@@ -33,4 +43,7 @@ Obs: Existe esse mesmo projeto para versão web neste GitHub.
 * Fetch API
 * Flex-Box
 * Regex
+<<<<<<< HEAD
 * Geração do .exe com Electron
+=======
+>>>>>>> 920a95a4deb0eb94af6fd0c578c2e42a41be9d0b
